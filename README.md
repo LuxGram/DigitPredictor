@@ -22,4 +22,7 @@ DigitPredictorは、ユーザーが指定した範囲内のランダムな数を
 
 ## 実行方法
 ターミナルまたはコマンドプロンプトで以下のコマンドを実行します。
+
+```bash
 python digit_predictor.py
+```
